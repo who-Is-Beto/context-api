@@ -1,7 +1,7 @@
 import './App.css';
 import { MovieProvider } from './MovieContext'
 import Nav from './components/Nav'
-import AddMovie from './addMovie'
+import AddMovie from './components/addMovie'
 import MovieList from './components/MovieList'
 
 function App() {

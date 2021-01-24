@@ -4,7 +4,7 @@ import '../styles/Nav.css'
 
 
 function Nav() {
-  const [movies, setMovies] = useContext(MovieContext)
+  const [movies] = useContext(MovieContext)
   return (
     <header>
       <nav>
