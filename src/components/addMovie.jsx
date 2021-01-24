@@ -35,7 +35,7 @@ const AddMovie = () => {
           name='name'
           value={name}
           onChange={updateName}
-          placeholder='Movie Player' />
+          placeholder='Movie Name' />
         <input
           type="text"
           name='price'
